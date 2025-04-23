@@ -1,19 +1,14 @@
-# :earth_americas: GDP dashboard template
+# Crime Victimisation Dashboard
 
-A simple Streamlit app showing the GDP of different countries in the world.
+An interactive Streamlit app for exploring UK crime victimisation data across years, regions, and demographic groups. Built using Streamlit, Pandas, and Plotly.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
+### Live App
 
-### How to run it on your own machine
+https://crime-victimisation-dashboard-gjpztsrnd4ncqeyhyt6zte.streamlit.app/ 
 
-1. Install the requirements
+### Project Description 
 
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+This dashboard allows users to:
+- Filter data by year, region, ethnicity, age, gender, socio-economic class, and household income.
+- Explore visual insights through graphs and summary metrics.
+- Download filtered datasets for external analysis.
