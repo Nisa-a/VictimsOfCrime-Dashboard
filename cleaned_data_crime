@@ -1,0 +1,257 @@
+Ethnicity,Year,Region,Gender,Age,Socio-economic classification,Household income,Value,Sample size
+All,2013/14,England And Wales,All,16+,All,All,17.0,35371
+All,2013/14,England And Wales,All,16-24,All,All,25.1,2790
+All,2013/14,England And Wales,All,25-34,All,All,21.0,5254
+All,2013/14,England And Wales,All,35-44,All,All,19.8,5826
+All,2013/14,England And Wales,All,45-54,All,All,17.4,6087
+All,2013/14,England And Wales,All,55-64,All,All,13.5,5689
+All,2013/14,England And Wales,All,65-74,All,All,10.2,5296
+All,2013/14,England And Wales,All,75+,All,All,6.0,4429
+All,2013/14,England And Wales,Male,16+,All,All,17.4,16176
+All,2013/14,England And Wales,Female,16+,All,All,16.7,19195
+All,2013/14,England And Wales,All,16+,Managerial and professional occupations,All,17.2,11760
+All,2013/14,England And Wales,All,16+,Intermediate occupations,All,16.3,8300
+All,2013/14,England And Wales,All,16+,Routine and manual occupations,All,16.1,12620
+All,2013/14,England And Wales,All,16+,Never worked and long-term unemployed,All,17.6,1322
+All,2013/14,England And Wales,All,16+,Full time students,All,23.6,1200
+All,2013/14,England And Wales,All,16+,Not classified,All,11.3,169
+All,2013/14,England And Wales,All,16+,All,"Less than £10,000",16.5,4618
+All,2013/14,England And Wales,All,16+,All,"£10,000 to less than £20,000",15.8,7155
+All,2013/14,England And Wales,All,16+,All,"£20,000 to less than £30,000",16.5,5161
+All,2013/14,England And Wales,All,16+,All,"£30,000 to less than £40,000",17.6,3778
+All,2013/14,England And Wales,All,16+,All,"£40,000 to less than £50,000",18.2,2670
+All,2013/14,England And Wales,All,16+,All,"£50,000 or more",19.2,5588
+All,2013/14,England And Wales,All,16+,All,No income stated/Not enough information provided ,15.9,6401
+Asian,2013/14,England And Wales,All,16+,All,All,18.6,1824
+Black,2013/14,England And Wales,All,16+,All,All,16.9,959
+White British,2013/14,England And Wales,All,16+,All,All,16.7,30073
+White Irish,2013/14,England And Wales,All,16+,All,All,20.6,322
+Gypsy Or Irish Traveller,2013/14,England And Wales,All,16+,All,All,15.5,12
+Any Other White Background,2013/14,England And Wales,All,16+,All,All,17.2,1573
+Mixed White And Black Caribbean,2013/14,England And Wales,All,16+,All,All,29.0,120
+Mixed White And Black African,2013/14,England And Wales,All,16+,All,All,15.5,46
+Mixed White And Asian,2013/14,England And Wales,All,16+,All,All,23.5,80
+Any Other Mixed/Multiple Ethnic Background,2013/14,England And Wales,All,16+,All,All,29.0,93
+Indian,2013/14,England And Wales,All,16+,All,All,20.3,767
+Pakistani,2013/14,England And Wales,All,16+,All,All,20.4,398
+Bangladeshi,2013/14,England And Wales,All,16+,All,All,17.1,138
+Chinese,2013/14,England And Wales,All,16+,All,All,14.6,169
+Any Other Asian Background,2013/14,England And Wales,All,16+,All,All,15.2,352
+Black African,2013/14,England And Wales,All,16+,All,All,16.0,564
+Black Caribbean,2013/14,England And Wales,All,16+,All,All,17.3,350
+Any Other Black Background,2013/14,England And Wales,All,16+,All,All,15.5,45
+Arab,2013/14,England And Wales,All,16+,All,All,9.9,88
+Any Other Ethnic Group,2013/14,England And Wales,All,16+,All,All,16.0,148
+Mixed,2013/14,England And Wales,All,16+,All,All,27.2,339
+Other,2013/14,England And Wales,All,16+,All,All,13.8,236
+White,2013/14,England And Wales,All,16+,All,All,16.8,31980
+All,2014/15,England And Wales,All,16+,All,All,15.9,33350
+All,2014/15,England And Wales,All,16-24,All,All,22.1,2409
+All,2014/15,England And Wales,All,25-34,All,All,20.5,4785
+All,2014/15,England And Wales,All,35-44,All,All,18.9,5436
+All,2014/15,England And Wales,All,45-54,All,All,16.8,5645
+All,2014/15,England And Wales,All,55-64,All,All,12.5,5336
+All,2014/15,England And Wales,All,65-74,All,All,9.0,5384
+All,2014/15,England And Wales,All,75+,All,All,5.9,4355
+All,2014/15,England And Wales,Male,16+,All,All,16.7,15030
+All,2014/15,England And Wales,Female,16+,All,All,15.3,18320
+All,2014/15,England And Wales,All,16+,Managerial and professional occupations,All,16.1,11298
+All,2014/15,England And Wales,All,16+,Intermediate occupations,All,15.2,7690
+All,2014/15,England And Wales,All,16+,Routine and manual occupations,All,15.5,11823
+All,2014/15,England And Wales,All,16+,Never worked and long-term unemployed,All,18.0,1310
+All,2014/15,England And Wales,All,16+,Full time students,All,18.9,1027
+All,2014/15,England And Wales,All,16+,Not classified,All,18.0,202
+All,2014/15,England And Wales,All,16+,All,"Less than £10,000",16.8,3965
+All,2014/15,England And Wales,All,16+,All,"£10,000 to less than £20,000",13.6,6724
+All,2014/15,England And Wales,All,16+,All,"£20,000 to less than £30,000",14.9,4972
+All,2014/15,England And Wales,All,16+,All,"£30,000 to less than £40,000",17.5,3744
+All,2014/15,England And Wales,All,16+,All,"£40,000 to less than £50,000",16.7,2672
+All,2014/15,England And Wales,All,16+,All,"£50,000 or more",18.1,5580
+All,2014/15,England And Wales,All,16+,All,No income stated/Not enough information provided ,14.8,5688
+Asian,2014/15,England And Wales,All,16+,All,All,15.8,1649
+White British,2014/15,England And Wales,All,16+,All,All,15.5,28476
+White Irish,2014/15,England And Wales,All,16+,All,All,17.3,299
+Gypsy Or Irish Traveller,2014/15,England And Wales,All,16+,All,All,15.5,10
+Any Other White Background,2014/15,England And Wales,All,16+,All,All,18.6,1427
+Mixed White And Black Caribbean,2014/15,England And Wales,All,16+,All,All,29.1,98
+Mixed White And Black African,2014/15,England And Wales,All,16+,All,All,15.5,45
+Mixed White And Asian,2014/15,England And Wales,All,16+,All,All,27.9,90
+Any Other Mixed/Multiple Ethnic Background,2014/15,England And Wales,All,16+,All,All,22.8,76
+Indian,2014/15,England And Wales,All,16+,All,All,14.4,679
+Pakistani,2014/15,England And Wales,All,16+,All,All,21.9,388
+Bangladeshi,2014/15,England And Wales,All,16+,All,All,11.6,123
+Chinese,2014/15,England And Wales,All,16+,All,All,11.4,136
+Any Other Asian Background,2014/15,England And Wales,All,16+,All,All,13.9,323
+Black African,2014/15,England And Wales,All,16+,All,All,18.7,529
+Black Caribbean,2014/15,England And Wales,All,16+,All,All,14.7,316
+Any Other Black Background,2014/15,England And Wales,All,16+,All,All,27.6,57
+Arab,2014/15,England And Wales,All,16+,All,All,10.3,83
+Any Other Ethnic Group,2014/15,England And Wales,All,16+,All,All,17.5,151
+Black,2014/15,England And Wales,All,16+,All,All,18.0,902
+Mixed,2014/15,England And Wales,All,16+,All,All,27.9,309
+Other,2014/15,England And Wales,All,16+,All,All,14.8,234
+White,2014/15,England And Wales,All,16+,All,All,15.7,30212
+All,2015/16,England And Wales,All,16+,All,All,15.2,35324
+White British,2015/16,England And Wales,All,16+,All,All,14.6,29993
+White Irish,2015/16,England And Wales,All,16+,All,All,17.3,287
+Gypsy Or Irish Traveller,2015/16,England And Wales,All,16+,All,All,15.5,15
+Any Other White Background,2015/16,England And Wales,All,16+,All,All,16.4,1672
+Mixed White And Black Caribbean,2015/16,England And Wales,All,16+,All,All,20.5,135
+Mixed White And Black African,2015/16,England And Wales,All,16+,All,All,15.5,44
+Mixed White And Asian,2015/16,England And Wales,All,16+,All,All,16.1,94
+Any Other Mixed/Multiple Ethnic Background,2015/16,England And Wales,All,16+,All,All,25.9,91
+Indian,2015/16,England And Wales,All,16+,All,All,17.7,722
+Pakistani,2015/16,England And Wales,All,16+,All,All,22.5,428
+Bangladeshi,2015/16,England And Wales,All,16+,All,All,15.2,135
+Chinese,2015/16,England And Wales,All,16+,All,All,16.4,173
+Any Other Asian Background,2015/16,England And Wales,All,16+,All,All,15.3,332
+Black African,2015/16,England And Wales,All,16+,All,All,18.5,530
+Black Caribbean,2015/16,England And Wales,All,16+,All,All,15.8,311
+Any Other Black Background,2015/16,England And Wales,All,16+,All,All,30.9,61
+Arab,2015/16,England And Wales,All,16+,All,All,10.0,87
+Any Other Ethnic Group,2015/16,England And Wales,All,16+,All,All,21.2,155
+Asian,2015/16,England And Wales,All,16+,All,All,18.2,1790
+All,2015/16,England And Wales,All,16-24,All,All,21.4,2514
+All,2015/16,England And Wales,All,25-34,All,All,19.6,5003
+All,2015/16,England And Wales,All,35-44,All,All,16.8,5562
+All,2015/16,England And Wales,All,45-54,All,All,16.5,6131
+All,2015/16,England And Wales,All,55-64,All,All,12.8,5686
+All,2015/16,England And Wales,All,65-74,All,All,8.8,5863
+All,2015/16,England And Wales,All,75+,All,All,5.5,4565
+All,2015/16,England And Wales,Male,16+,All,All,15.6,16068
+All,2015/16,England And Wales,Female,16+,All,All,14.9,19256
+All,2015/16,England And Wales,All,16+,Managerial and professional occupations,All,15.7,12251
+All,2015/16,England And Wales,All,16+,Intermediate occupations,All,14.3,8216
+All,2015/16,England And Wales,All,16+,Routine and manual occupations,All,14.6,12288
+All,2015/16,England And Wales,All,16+,Never worked and long-term unemployed,All,14.1,1236
+All,2015/16,England And Wales,All,16+,Full time students,All,19.8,1093
+All,2015/16,England And Wales,All,16+,Not classified,All,13.2,240
+All,2015/16,England And Wales,All,16+,All,"Less than £10,000",14.4,3690
+All,2015/16,England And Wales,All,16+,All,"£10,000 to less than £20,000",13.8,6842
+All,2015/16,England And Wales,All,16+,All,"£20,000 to less than £30,000",14.7,5284
+All,2015/16,England And Wales,All,16+,All,"£30,000 to less than £40,000",15.5,4067
+All,2015/16,England And Wales,All,16+,All,"£40,000 to less than £50,000",16.6,2767
+All,2015/16,England And Wales,All,16+,All,"£50,000 or more",17.3,6330
+All,2015/16,England And Wales,All,16+,All,No income stated/Not enough information provided ,14.0,6329
+Black,2015/16,England And Wales,All,16+,All,All,18.6,902
+Mixed,2015/16,England And Wales,All,16+,All,All,21.4,364
+Other,2015/16,England And Wales,All,16+,All,All,17.0,242
+White,2015/16,England And Wales,All,16+,All,All,14.7,31967
+White British,2016/17,England And Wales,All,16+,All,All,13.6,29366
+White Irish,2016/17,England And Wales,All,16+,All,All,9.7,296
+Gypsy Or Irish Traveller,2016/17,England And Wales,All,16+,All,All,15.5,21
+Any Other White Background,2016/17,England And Wales,All,16+,All,All,14.2,1990
+Mixed White And Black Caribbean,2016/17,England And Wales,All,16+,All,All,20.2,121
+Mixed White And Black African,2016/17,England And Wales,All,16+,All,All,13.5,56
+Mixed White And Asian,2016/17,England And Wales,All,16+,All,All,17.4,105
+Any Other Mixed/Multiple Ethnic Background,2016/17,England And Wales,All,16+,All,All,29.3,88
+Indian,2016/17,England And Wales,All,16+,All,All,14.7,772
+Pakistani,2016/17,England And Wales,All,16+,All,All,15.7,498
+Bangladeshi,2016/17,England And Wales,All,16+,All,All,19.3,168
+Chinese,2016/17,England And Wales,All,16+,All,All,13.3,182
+Any Other Asian Background,2016/17,England And Wales,All,16+,All,All,12.5,336
+Black African,2016/17,England And Wales,All,16+,All,All,17.0,629
+Black Caribbean,2016/17,England And Wales,All,16+,All,All,14.3,318
+Any Other Black Background,2016/17,England And Wales,All,16+,All,All,22.2,79
+Arab,2016/17,England And Wales,All,16+,All,All,18.0,141
+Any Other Ethnic Group,2016/17,England And Wales,All,16+,All,All,12.1,208
+All,2016/17,England And Wales,All,16+,All,All,13.9,35420
+Asian,2016/17,England And Wales,All,16+,All,All,14.9,1956
+Black,2016/17,England And Wales,All,16+,All,All,16.6,1026
+All,2016/17,England And Wales,All,16-24,All,All,19.6,2588
+All,2016/17,England And Wales,All,25-34,All,All,16.4,5309
+All,2016/17,England And Wales,All,35-44,All,All,16.1,5816
+All,2016/17,England And Wales,All,45-54,All,All,16.2,6196
+All,2016/17,England And Wales,All,55-64,All,All,12.0,5664
+All,2016/17,England And Wales,All,65-74,All,All,7.8,5592
+All,2016/17,England And Wales,All,75+,All,All,4.9,4255
+All,2016/17,England And Wales,Male,16+,All,All,14.2,16437
+All,2016/17,England And Wales,Female,16+,All,All,13.7,18983
+All,2016/17,England And Wales,All,16+,Managerial and professional occupations,All,14.0,12440
+All,2016/17,England And Wales,All,16+,Intermediate occupations,All,13.5,8293
+All,2016/17,England And Wales,All,16+,Routine and manual occupations,All,13.4,11883
+All,2016/17,England And Wales,All,16+,Never worked and long-term unemployed,All,15.1,1340
+All,2016/17,England And Wales,All,16+,Full time students,All,18.2,1140
+All,2016/17,England And Wales,All,16+,Not classified,All,6.1,324
+All,2016/17,England And Wales,All,16+,All,"Less than £10,000",13.9,3361
+All,2016/17,England And Wales,All,16+,All,"£10,000 to less than £20,000",13.4,6894
+All,2016/17,England And Wales,All,16+,All,"£20,000 to less than £30,000",13.8,5277
+All,2016/17,England And Wales,All,16+,All,"£30,000 to less than £40,000",14.0,4043
+All,2016/17,England And Wales,All,16+,All,"£40,000 to less than £50,000",14.6,2959
+All,2016/17,England And Wales,All,16+,All,"£50,000 or more",16.2,6808
+All,2016/17,England And Wales,All,16+,All,No income stated/Not enough information provided ,11.5,5986
+Mixed,2016/17,England And Wales,All,16+,All,All,20.3,370
+Other,2016/17,England And Wales,All,16+,All,All,14.5,349
+White,2016/17,England And Wales,All,16+,All,All,13.6,31673
+White British,2017/18,England And Wales,All,16+,All,All,14.0,28714
+White Irish,2017/18,England And Wales,All,16+,All,All,12.2,295
+Gypsy Or Irish Traveller,2017/18,England And Wales,All,16+,All,All,15.5,15
+Any Other White Background,2017/18,England And Wales,All,16+,All,All,15.2,1979
+Mixed White And Black Caribbean,2017/18,England And Wales,All,16+,All,All,15.6,120
+Mixed White And Black African,2017/18,England And Wales,All,16+,All,All,16.2,63
+Mixed White And Asian,2017/18,England And Wales,All,16+,All,All,28.6,87
+Any Other Mixed/Multiple Ethnic Background,2017/18,England And Wales,All,16+,All,All,25.9,105
+Indian,2017/18,England And Wales,All,16+,All,All,15.6,795
+Pakistani,2017/18,England And Wales,All,16+,All,All,18.2,495
+Bangladeshi,2017/18,England And Wales,All,16+,All,All,17.9,182
+Chinese,2017/18,England And Wales,All,16+,All,All,15.4,165
+Any Other Asian Background,2017/18,England And Wales,All,16+,All,All,14.5,376
+Black African,2017/18,England And Wales,All,16+,All,All,14.7,581
+Black Caribbean,2017/18,England And Wales,All,16+,All,All,16.1,323
+Any Other Black Background,2017/18,England And Wales,All,16+,All,All,11.6,64
+Arab,2017/18,England And Wales,All,16+,All,All,20.5,100
+Any Other Ethnic Group,2017/18,England And Wales,All,16+,All,All,14.8,200
+All,2017/18,England And Wales,All,16+,All,All,14.4,34715
+Asian,2017/18,England And Wales,All,16+,All,All,16.3,2013
+Black,2017/18,England And Wales,All,16+,All,All,14.9,968
+Mixed,2017/18,England And Wales,All,16+,All,All,21.9,375
+Other,2017/18,England And Wales,All,16+,All,All,16.7,300
+White,2017/18,England And Wales,All,16+,All,All,14.1,31003
+White British,2018/19,England And Wales,All,16+,All,All,14.5,28040
+White Irish,2018/19,England And Wales,All,16+,All,All,13.0,304
+Gypsy Or Irish Traveller,2018/19,England And Wales,All,16+,All,All,15.5,10
+Any Other White Background,2018/19,England And Wales,All,16+,All,All,17.2,2070
+Mixed White And Black Caribbean,2018/19,England And Wales,All,16+,All,All,23.0,123
+Mixed White And Black African,2018/19,England And Wales,All,16+,All,All,15.5,49
+Mixed White And Asian,2018/19,England And Wales,All,16+,All,All,12.2,90
+Any Other Mixed/Multiple Ethnic Background,2018/19,England And Wales,All,16+,All,All,25.4,110
+Indian,2018/19,England And Wales,All,16+,All,All,14.4,787
+Pakistani,2018/19,England And Wales,All,16+,All,All,16.7,510
+Bangladeshi,2018/19,England And Wales,All,16+,All,All,10.7,215
+Chinese,2018/19,England And Wales,All,16+,All,All,13.7,185
+Any Other Asian Background,2018/19,England And Wales,All,16+,All,All,16.3,381
+Black African,2018/19,England And Wales,All,16+,All,All,17.4,585
+Black Caribbean,2018/19,England And Wales,All,16+,All,All,15.9,283
+Any Other Black Background,2018/19,England And Wales,All,16+,All,All,8.7,62
+Arab,2018/19,England And Wales,All,16+,All,All,20.6,96
+Any Other Ethnic Group,2018/19,England And Wales,All,16+,All,All,11.1,189
+All,2018/19,England And Wales,All,16+,All,All,14.9,34163
+Asian,2018/19,England And Wales,All,16+,All,All,14.8,2078
+Black,2018/19,England And Wales,All,16+,All,All,16.4,930
+Mixed,2018/19,England And Wales,All,16+,All,All,18.7,372
+Other,2018/19,England And Wales,All,16+,All,All,14.6,285
+White,2018/19,England And Wales,All,16+,All,All,14.7,30424
+White British,2019/20,England And Wales,All,16+,All,All,12.7,27633
+White Irish,2019/20,England And Wales,All,16+,All,All,11.6,258
+Gypsy Or Irish Traveller,2019/20,England And Wales,All,16+,All,All,15.5,11
+Any Other White Background,2019/20,England And Wales,All,16+,All,All,14.5,2017
+Mixed White And Black Caribbean,2019/20,England And Wales,All,16+,All,All,25.4,125
+Mixed White And Black African,2019/20,England And Wales,All,16+,All,All,17.9,56
+Mixed White And Asian,2019/20,England And Wales,All,16+,All,All,14.2,117
+Any Other Mixed/Multiple Ethnic Background,2019/20,England And Wales,All,16+,All,All,20.6,118
+Indian,2019/20,England And Wales,All,16+,All,All,15.3,810
+Pakistani,2019/20,England And Wales,All,16+,All,All,18.3,485
+Bangladeshi,2019/20,England And Wales,All,16+,All,All,14.1,191
+Chinese,2019/20,England And Wales,All,16+,All,All,9.6,196
+Any Other Asian Background,2019/20,England And Wales,All,16+,All,All,11.9,383
+Black African,2019/20,England And Wales,All,16+,All,All,14.0,591
+Black Caribbean,2019/20,England And Wales,All,16+,All,All,15.1,298
+Any Other Black Background,2019/20,England And Wales,All,16+,All,All,14.1,68
+Arab,2019/20,England And Wales,All,16+,All,All,17.0,110
+Any Other Ethnic Group,2019/20,England And Wales,All,16+,All,All,14.5,167
+All,2019/20,England And Wales,All,16+,All,All,13.3,33735
+Asian,2019/20,England And Wales,All,16+,All,All,14.9,2065
+Black,2019/20,England And Wales,All,16+,All,All,14.3,957
+Mixed,2019/20,England And Wales,All,16+,All,All,19.5,416
+Other,2019/20,England And Wales,All,16+,All,All,15.5,277
+White,2019/20,England And Wales,All,16+,All,All,12.9,29919
