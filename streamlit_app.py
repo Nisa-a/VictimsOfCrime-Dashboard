@@ -80,3 +80,11 @@ with col3:
 victim_trend_chart = filtered_data.groupby("Year")["Sample size"].sum().reset_index()
 fig = px.line(victim_trend_chart, x="Year", y="Sample size", labels={"Sample size": "Victim Count"}, title="Number of Victims Over Time")
 st.plotly_chart(fig)
+
+# display the tabular format of the filtered data:
+if st.checkbox("Show Raw Filtered Data"):
+    st.dataframe(filtered_data)
+
+# Create tabs for the different visualisations:
+# Streamlit (n.d.) st.tabs – Streamlit Docs. Available at: https://docs.streamlit.io/develop/api-reference/layout/st.tabs (Accessed: 22 April 2025).
+tab1, tab2, tab3 = st.tabs(["By Ethnicity", "By Region", "By Age Group"])
