@@ -20,7 +20,7 @@ st.sidebar.markdown("---")
 # Wa, W. (2020) Build your first interactive dashboard with cross-filtering in Streamlit. Medium. Available at: https://medium.com/@weijiawa/build-your-first-interactive-dashboard-with-cross-filtering-in-streamlit-e7ae673001d3 (Accessed: 22 April 2025).
 year_filter = st.sidebar.multiselect("Year", sorted(df["Year"].unique()), default=["2013/14","2014/15","2015/16","2016/17","2017/18","2018/19","2019/20"])
 ethnicity_filter = st.sidebar.multiselect("Ethnicity", sorted(df["Ethnicity"].unique()))
-gender_filter = st.sidebar.selectbox("Gender", sorted(df["Gender"].unique()), index = 0)
+gender_filter = st.sidebar.multiselect("Gender", sorted(df["Gender"].unique()), default= ["All"])
 age_filter = st.sidebar.multiselect("Age", df["Age"].unique())
 socio_eco_class_filter = st.sidebar.multiselect("Socio-economic classification", df["Socio-economic classification"].unique())
 house_income_filter = st.sidebar.multiselect("Household income", df["Household income"].unique())
@@ -36,7 +36,7 @@ if ethnicity_filter:
     filtered_data = filtered_data[filtered_data["Ethnicity"].isin(ethnicity_filter)]
 
 if gender_filter:
-    filtered_data = filtered_data[filtered_data["Gender"] == gender_filter]
+    filtered_data = filtered_data[filtered_data["Gender"].isin(gender_filter)]
 
 if age_filter:
     filtered_data = filtered_data[filtered_data["Age"].isin(age_filter)]
@@ -93,4 +93,8 @@ fig = px.bar(ethnicity_stats, height = 600,width = 900, x="Ethnicity", y="Sample
 fig.update_xaxes(showticklabels=False) # Hide x-axis label.
 tab1.plotly_chart(fig)
 
-
+# Bar Chart for gender
+gender_stats = filtered_data.groupby("Gender")["Sample size"].mean().reset_index()
+fig = px.bar(gender_stats, height = 600,width = 900, x="Gender", y="Sample size", title="Victimisation by Gender", color = "Gender", labels={"Sample size": "Avg. Number of Victims"})
+fig.update_xaxes(showticklabels=False) 
+tab2.plotly_chart(fig)
