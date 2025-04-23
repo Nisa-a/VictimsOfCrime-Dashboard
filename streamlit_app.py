@@ -88,3 +88,11 @@ if st.checkbox("Show Raw Filtered Data"):
 # Create tabs for the different visualisations:
 # Streamlit (n.d.) st.tabs – Streamlit Docs. Available at: https://docs.streamlit.io/develop/api-reference/layout/st.tabs (Accessed: 22 April 2025).
 tab1, tab2, tab3 = st.tabs(["By Ethnicity", "By Region", "By Age Group"])
+
+# Bar chart for ethnicity:
+ethnicity_stats = filtered_data.groupby("Ethnicity")["Sample size"].mean().reset_index()
+# Plotly (n.d.). Bar Charts. [online] plotly.com. Available at: https://plotly.com/python/bar-charts/.
+fig = px.bar(ethnicity_stats, height = 600,width = 900, x="Ethnicity", y="Sample size", title="Victimisation by Ethnicity", color = "Ethnicity", labels= {"Sample size": "Avg. Number of Victims"}, )
+# plotly.com. (n.d.). Layout.xaxis. [online] Available at: https://plotly.com/python/reference/layout/xaxis/.
+fig.update_xaxes(showticklabels=False) # Hide x-axis label.
+tab1.plotly_chart(fig)
