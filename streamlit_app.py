@@ -54,3 +54,29 @@ if filtered_data.empty:
 
 # Create download button for filtered data.
 st.sidebar.download_button("Download Filtered Data as CSV", filtered_data.to_csv(index=False), "filtered_data.csv")
+# Layout for the summary metrics:
+# Only the single years are needed to display the metrics.
+trend_years = ['2013/14', '2014/15', '2015/16', '2016/17', '2017/18', '2018/19', '2019/20']
+trend_data = df[df["Year"].isin(trend_years)]
+
+# Tech with Tim (2021) How to Build an Interactive Dashboard with Streamlit. YouTube. Available at: https://www.youtube.com/watch?v=hQnMV_bF84I (Accessed: 22 April 2025).
+# Streamlit (n.d.) st.metric – Streamlit Docs. Available at: https://docs.streamlit.io/develop/api-reference/data/st.metric (Accessed: 22 April 2025).
+# Streamlit (n.d.) st.columns – Streamlit Docs. Available at: https://docs.streamlit.io/develop/api-reference/layout/st.columns (Accessed: 22 April 2025).
+col1, col2, col3 = st.columns(3)
+
+with col1:
+    highest_year = trend_data.groupby("Year")["Sample size"].sum().idxmax()
+    col1.metric("Year with Most Reported Victims", highest_year)
+
+with col2:
+    region_count = df["Region"].nunique()
+    col2.metric("Covered Regions", region_count)
+
+with col3:
+    average_rate = round(trend_data["Value"].mean(), 2)
+    col3.metric("Overall Victimisation Rate", f"{average_rate:.2f}%")
+
+# Trend ine chart 
+victim_trend_chart = filtered_data.groupby("Year")["Sample size"].sum().reset_index()
+fig = px.line(victim_trend_chart, x="Year", y="Sample size", labels={"Sample size": "Victim Count"}, title="Number of Victims Over Time")
+st.plotly_chart(fig)
