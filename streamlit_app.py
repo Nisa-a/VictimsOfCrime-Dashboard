@@ -97,6 +97,11 @@ fig = px.bar(ethnicity_stats, height = 600,width = 900, x="Ethnicity", y="Sample
 fig.update_xaxes(showticklabels=False) # Hide x-axis label.
 tab1.plotly_chart(fig)
 
-
+# Bar chart for age group:
+age_stats = df.groupby("Age")["Sample size"].mean().reset_index()
+fig = px.bar(age_stats, x="Age", y="Sample size", title="Victimisation by Age", color = "Age", labels = {"Sample size": "Avg. Number of Victims"})
+# Plotly.com. (2025). Layout. [online] Available at: https://plotly.com/python/reference/layout/#layout-showlegend [Accessed 22 Apr. 2025].
+fig.update_layout(showlegend=False)  # Hide legend.
+tab2.plotly_chart(fig)
 
 
