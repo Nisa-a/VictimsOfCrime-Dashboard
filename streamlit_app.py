@@ -110,7 +110,7 @@ fig = px.bar(household_stats, height = 600,width = 900, x="Household income", y=
 fig.update_xaxes(showticklabels=False) # Hide x-axis label.
 tab3.plotly_chart(fig)
 
-# Bar chart for Socio-economic classification :
+# Bar chart for Socio-economic classification:
 Socio_stats = df.groupby("Socio-economic classification")["Sample size"].mean().reset_index()
 fig = px.bar(Socio_stats, height = 600,width = 900, x="Socio-economic classification", y="Sample size", title="Socio-economic classification of Victims", color = "Socio-economic classification", labels = {"Sample size": "Avg. Number of Victims"})
 fig.update_xaxes(showticklabels=False) # Hide x-axis label.
@@ -119,3 +119,4 @@ tab4.plotly_chart(fig)
 # Display the tabular format of the filtered data:
 if st.checkbox("Show Raw Filtered Data"):
     st.dataframe(filtered_data)
+    
