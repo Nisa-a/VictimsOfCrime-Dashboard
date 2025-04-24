@@ -104,4 +104,12 @@ fig = px.bar(age_stats, x="Age", y="Sample size", title="Victimisation by Age", 
 fig.update_layout(showlegend=False)  # Hide legend.
 tab2.plotly_chart(fig)
 
+# Bar chart for household income:
+household_stats = df.groupby("Household income")["Sample size"].mean().reset_index()
+fig = px.bar(household_stats, height = 600,width = 900, x="Household income", y="Sample size", title="Victimisation by Household income", color = "Household income", labels = {"Sample size": "Avg. Number of Victims"})
+fig.update_xaxes(showticklabels=False) # Hide x-axis label.
+tab3.plotly_chart(fig)
+
+
+
 
