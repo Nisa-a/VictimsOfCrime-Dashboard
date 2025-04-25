@@ -4,7 +4,7 @@ An interactive Streamlit app for exploring UK crime victimisation data across ye
 
 ### Live App
 
-https://crime-victimisation-dashboard-gjpztsrnd4ncqeyhyt6zte.streamlit.app/ 
+https://victimsofcrime-dashboard-nb94qomtzel.streamlit.app/
 
 ### Project Description 
 
