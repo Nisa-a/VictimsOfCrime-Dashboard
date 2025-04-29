@@ -68,7 +68,7 @@ with col3:
     col3.metric("Avg. Victimisation Rate", f"{average_rate:.2f}%", help="Average across all years and regions" )
 st.markdown("---")
 
-st.subheader("Trends & Demographics") 
+st.subheader("Trends") 
 col4, col5 = st.columns([4,2])
 # Trend line chart:
 victim_trend_chart = filtered_data.groupby("Year")["Sample size"].sum().reset_index()
