@@ -46,7 +46,7 @@ if filtered_data.empty:
     st.stop() 
 
 # Create download button for filtered data.
-st.sidebar.download_button("Download Filtered Data as CSV", filtered_data.to_csv(index=False), "filtered_data.csv")
+st.sidebar.download_button("Export as CSV", filtered_data.to_csv(index=False), "filtered_data.csv")
 
 # Layout for the summary metrics:
 
