@@ -117,6 +117,6 @@ fig.update_xaxes(showticklabels=False) # Hide x-axis label.
 tab4.plotly_chart(fig)
 
 # Display the tabular format of the filtered data:
-if st.checkbox("Show Raw Filtered Data"):
+if st.checkbox("View Raw Data"):
     st.dataframe(filtered_data)
     
