@@ -98,20 +98,20 @@ fig.update_xaxes(showticklabels=False) # Hide x-axis label.
 tab1.plotly_chart(fig)
 
 # Bar chart for age group:
-age_stats = df.groupby("Age")["Sample size"].mean().reset_index()
+age_stats = filtered_data.groupby("Age")["Sample size"].mean().reset_index()
 fig = px.bar(age_stats, x="Age", y="Sample size", title="Age Group of Victims", color = "Age", labels = {"Sample size": "Avg. Number of Victims"})
 # Plotly.com. (2025). Layout. [online] Available at: https://plotly.com/python/reference/layout/#layout-showlegend [Accessed 22 Apr. 2025].
 fig.update_layout(showlegend=False)  # Hide legend.
 tab2.plotly_chart(fig)
 
 # Bar chart for household income:
-household_stats = df.groupby("Household income")["Sample size"].mean().reset_index()
+household_stats = filtered_data.groupby("Household income")["Sample size"].mean().reset_index()
 fig = px.bar(household_stats, height = 600,width = 900, x="Household income", y="Sample size", title="Household Income of Victims", color = "Household income", labels = {"Sample size": "Avg. Number of Victims"})
 fig.update_xaxes(showticklabels=False) # Hide x-axis label.
 tab3.plotly_chart(fig)
 
 # Bar chart for Socio-economic classification:
-Socio_stats = df.groupby("Socio-economic classification")["Sample size"].mean().reset_index()
+Socio_stats = filtered_data.groupby("Socio-economic classification")["Sample size"].mean().reset_index()
 fig = px.bar(Socio_stats, height = 600,width = 900, x="Socio-economic classification", y="Sample size", title="Socio-economic classification of Victims", color = "Socio-economic classification", labels = {"Sample size": "Avg. Number of Victims"})
 fig.update_xaxes(showticklabels=False) # Hide x-axis label.
 tab4.plotly_chart(fig)
